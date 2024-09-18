@@ -17,9 +17,7 @@ For guidance on navigating college as a first-generation student, check out our 
 
 | **Resource Name** | **Type** | **Location** | **Link** | **Date Added** |
 | ------------------ | -------- | ------------ | -------- | --------------- |
-
-| **[America Needs You](https://americaneedsyou.org/)** | Fellow Program | USA | [More Info](https://americaneedsyou.org/fellows-program/) | Sep 17 |
-
+| **[Scholarship Name](link)** | Financial Aid | USA/Canada | [More Info](link) | Sep 17 |
 ---
 
 ### Community Engagement
