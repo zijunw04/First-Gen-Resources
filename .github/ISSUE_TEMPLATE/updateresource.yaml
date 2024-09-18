@@ -1,0 +1,33 @@
+name: Update Existing Resource
+description: Use this template to update information for an existing resource
+title: "[UPDATE] "
+labels: ["update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep our resources up to date! Please provide the updated information below.
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      description: What is the name of the resource you're updating?
+      placeholder: e.g., FirstGen Scholarship Program
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: Changes
+      description: What information needs to be updated? Please be specific.
+      placeholder: The link has changed to... The program is now available in...
+    validations:
+      required: true
+  - type: input
+    id: new-link
+    attributes:
+      label: New Link (if applicable)
+      description: If the resource link has changed, provide the new URL
+      placeholder: https://example.com/new-resource-link
+    validations:
+      required: false
