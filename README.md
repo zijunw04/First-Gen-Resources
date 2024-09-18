@@ -21,6 +21,7 @@ For guidance on navigating college as a first-generation student, check out our 
 | **[UStrive](https://www.ustrive.com/)** | Mentorship & Support | USA | [Apply](https://app.ustrive.com/login/) | Sep 17 | ALL |
 | **[FirstGen Forward - FIRSTGEN FORWARD NETWORK](https://firstgen.naspa.org/)** | Network & Mentorship | USA | [Apply](https://firstgen.naspa.org/programs-and-services/first-scholars-network/firstgen-forward-network/) | Sep 17 | College |
 | **[QuestBridge](https://www.questbridge.org/)** | College Applying | USA | [Apply](https://apply.questbridge.org/portal/apply/) | Sep 17 | High School |
+| **[SEO Scholars](https://www.seo-usa.org/scholars/)** | Mentorship & Scholarships | USA | [Apply](https://www.seo-usa.org/scholars/program/) | Sep 17 | High School |
 ---
 
 ### Community Engagement
