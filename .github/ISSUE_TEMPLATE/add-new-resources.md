@@ -7,9 +7,7 @@ assignees: ''
 
 ---
 
-name: Add New Resource
-description: Use this template to submit a new resource for first-generation students
-title: "[NEW RESOURCE] "
+title: "[NEW RESOURCE]"
 labels: ["new resource"]
 body:
   - type: markdown
