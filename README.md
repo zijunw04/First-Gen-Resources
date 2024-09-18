@@ -15,10 +15,12 @@ For guidance on navigating college as a first-generation student, check out our 
 
 ## 📦 Resource Categories
 
-| **Resource Name** | **Type** | **Location** | **Link** | **Date Added** |
-| ------------------ | -------- | ------------ | -------- | --------------- |
-| **[America Needs You](https://americaneedsyou.org/)** | Fellow Program | USA | [More Info](https://americaneedsyou.org/fellows-program/) | Sep 17 |
-| **[UStrive](https://www.ustrive.com/)** | Mentor Program | USA | [More Info](https://app.ustrive.com/login/) | Sep 17 |
+| **Resource Name** | **Type** | **Location** | **Link** | **Date Added** | **Student Type** |
+| ------------------ | -------- | ------------ | -------- | --------------- | --------------- |
+| **[America Needs You - ANY Fellow](https://americaneedsyou.org/)** | Fellow Program | USA | [Apply](https://americaneedsyou.org/fellows-program/) | Sep 17 | College |
+| **[UStrive](https://www.ustrive.com/)** | Mentorship & Support | USA | [Apply](https://app.ustrive.com/login/) | Sep 17 | ALL |
+| **[FirstGen Forward - FIRSTGEN FORWARD NETWORK](https://firstgen.naspa.org/)** | Network & Mentorship | USA | [Apply](https://firstgen.naspa.org/programs-and-services/first-scholars-network/firstgen-forward-network/) | Sep 17 | College |
+| **[QuestBridge](https://www.questbridge.org/)** | College Applying | USA | [Apply](https://apply.questbridge.org/portal/apply/) | Sep 17 | High School |
 ---
 
 ### Community Engagement
