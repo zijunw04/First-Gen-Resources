@@ -1,8 +1,8 @@
 # First-Generation Student Resources
 
-Welcome! This repository is dedicated to sharing and maintaining a collection of resources for **first-generation college students**. 
+Welcome! This repository is dedicated to sharing and maintaining a collection of resources **FREE** for **first-generation college students**. 
 
-:warning: Please note that this repository is exclusively for resources relevant to first-generation students in the United States.
+:warning: Please note that this repository is exclusively for resources relevant to first-generation students in the United States/Canada.
 
 ---
 
@@ -18,6 +18,7 @@ For guidance on navigating college as a first-generation student, check out our 
 | **Resource Name** | **Type** | **Location** | **Link** | **Date Added** |
 | ------------------ | -------- | ------------ | -------- | --------------- |
 | **[America Needs You](https://americaneedsyou.org/)** | Fellow Program | USA | [More Info](https://americaneedsyou.org/fellows-program/) | Sep 17 |
+| **[UStrive](https://www.ustrive.com/)** | Mentor Program | USA | [More Info](https://app.ustrive.com/login/) | Sep 17 |
 ---
 
 ### Community Engagement
