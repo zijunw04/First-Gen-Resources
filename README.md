@@ -15,11 +15,14 @@ For guidance on navigating college as a first-generation student, check out our 
 
 ## 📦 Resource Categories
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| **Resource Name** | **Type** | **Location** | **Link** | **Date Added** |
+| ------------------ | -------- | ------------ | -------- | --------------- |
+| **[Scholarship Name](link)** | Financial Aid | USA/Canada | [More Info](link) | Sep 17 |
+| **[Tutoring Service](link)** | Academic Support | Online/Local | [More Info](link) | Sep 17 |
+| **[Mentorship Program](link)** | Mentorship | Various Locations | [More Info](link) | Sep 17 |
+| **[Career Development Workshop](link)** | Career Development | Online/Local | [More Info](link) | Sep 17 |
+| **[Mental Health Resource](link)** | Mental Health & Wellness | Online/Local | [More Info](link) | Sep 17 |
+| **[Community Building Event](link)** | Networking | Various Locations | [More Info](link) | Sep 17 |
 
 
 
