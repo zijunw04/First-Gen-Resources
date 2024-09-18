@@ -2,7 +2,7 @@
 
 Welcome! This repository is dedicated to sharing and maintaining a collection of resources for **first-generation college students**. 
 
-:warning: Please note that this repository is exclusively for resources relevant to first-generation students in the United States and Canada.
+:warning: Please note that this repository is exclusively for resources relevant to first-generation students in the United States.
 
 ---
 
