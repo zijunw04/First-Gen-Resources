@@ -7,7 +7,6 @@ Welcome! This repository is dedicated to sharing and maintaining a collection of
 ---
 
 ### Valuable Tips
-For guidance on navigating college as a first-generation student, check out our guide [First-Gen Success](link-to-guide).
 
 🙏 **Contribute by submitting an [issue](https://github.com/zijunw04/First-Gen-Resources/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
