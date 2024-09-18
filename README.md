@@ -20,7 +20,7 @@ For guidance on navigating college as a first-generation student, check out our 
 
 | **[America Needs You](https://americaneedsyou.org/)** | Fellow Program | USA | [More Info](https://americaneedsyou.org/fellows-program/) | Sep 17 |
 
-
+---
 
 ### Community Engagement
 Join our community discussions and share your experiences! Follow us on social media or join our Discord channel (link).
