@@ -24,12 +24,5 @@ For guidance on navigating college as a first-generation student, check out our 
 | **[SEO Scholars](https://www.seo-usa.org/scholars/)** | Mentorship & Scholarships | USA | [Apply](https://www.seo-usa.org/scholars/program/) | Sep 17 | High School |
 ---
 
-### Community Engagement
-Join our community discussions and share your experiences! Follow us on social media or join our Discord channel (link).
-
-**Need updates?**  
-Sign up for email notifications about new resources added to this repo!
-
----
 
 Thank you for being part of this initiative to support first-generation students!
