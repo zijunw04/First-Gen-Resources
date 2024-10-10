@@ -22,6 +22,7 @@ Welcome! This repository is dedicated to sharing and maintaining a collection of
 | **[QuestBridge](https://www.questbridge.org/)** | College Applying | USA | [Apply](https://apply.questbridge.org/portal/apply/) | Sep 17 | High School |
 | **[SEO Scholars](https://www.seo-usa.org/scholars/)** | Mentorship & Scholarships | USA | [Apply](https://www.seo-usa.org/scholars/program/) | Sep 17 | High School |
 | **[FirstGen VC](https://www.firstgeneration.vc/)** | Funding for Business (First-Gen) | USA | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeYLjaOjm6uOdC_-lJqj8hzuc6u1foaO1OFTIBFQqYr51gfiQ/viewform/) | Sep 19 | ANY |
+| **[Basta](https://www.projectbasta.com/fellowship)** | Fellow Program | USA | [Apply](https://www.projectbasta.com/fellowship/) | Oct 9 | College / NY Student |
 ---
 
 
